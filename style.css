@@ -808,6 +808,11 @@ body {
         width: 22rem;
         height: 4rem;
     }
+    .textarea {
+        &::placeholder {
+            transform: translateY(100%);
+        }
+    }
 }
 @media screen and (max-width:600px) {
     .rounds {
@@ -844,6 +849,11 @@ body {
     }
     .page4 {
         margin-top: 0;
+    }
+    .textarea {
+        &::placeholder {
+            transform: translateY(65%);
+        }
     }
 }
 
