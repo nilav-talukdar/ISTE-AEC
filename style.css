@@ -865,7 +865,7 @@ body {
     min-height: 40rem;
     background-color: blue;
     margin-top: 1rem;
-    background-image: url('./assets/Subtract.svg');
+    background-image: url('Subtract.svg');
     background-size: cover;
     background-color: black;
     display: flex;
