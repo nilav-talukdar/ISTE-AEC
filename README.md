@@ -1,6 +1,7 @@
 # ISTE Assam Engineering College Chapter Website
 
 Welcome to the official website of the ISTE (Indian Society for Technical Education) Assam Engineering College Chapter. This website serves as a platform to connect students, share resources, and promote technical education initiatives.
+![Screenshot (29)](https://github.com/user-attachments/assets/462b2119-e57f-49f8-9169-f16f6ca7c370)
 
 ## Table of Contents
 
@@ -26,11 +27,3 @@ Welcome to the official website of the ISTE (Indian Society for Technical Educat
 - [Locomotive Scroll](https://github.com/locomotivemtl/locomotive-scroll)
 - [Animate on Scroll](https://michalsnik.github.io/aos/)
 - [Tilt.js](https://gijsroge.github.io/tilt.js/)
-
-## Installation
-
-To set up the project locally, follow these steps:
-
-**Clone the repository:**
-   ```bash
-   git clone https://github.com/yourusername/iste-assam-engg-college-website.git
